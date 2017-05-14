@@ -1,0 +1,127 @@
+a {
+	color: white;
+}
+
+body {
+	background-image: url("assets/whirlpool.png");
+}
+
+.name {
+	font-family: 'Oswald', sans-serif; 
+	font-size: 24px;
+}
+/*
+.menuRightItem {
+	margin-right: 100px;
+	margin-top: 20px;
+}
+
+.menuItems {
+	margin-left: 20px;
+	margin-top: 20px;
+}
+*/
+.container {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.navbar {
+
+	background-color: grey;
+
+
+}
+
+.socialIcons {
+	float: right;
+	display: inline-block;
+	margin-bottom: 200px;
+	margin-right: 20px;
+	width: 45px;
+}
+
+.selfPic {
+	width: 500px;
+	display: block;
+}
+
+.color {
+	background-color: blue;
+}
+
+.connectMe {
+	color: grey;
+	float: right;
+	font-family: 'Oswald', sans-serif;
+	font-size: 20px;
+	margin-bottom: 10px;
+	margin-right: 60px;
+	text-align: right;
+	padding-top: 30px;
+}
+
+
+
+.paragraph {
+	color: grey;
+	margin-top: 20px;
+}
+
+.footer1 {
+	text-align: center;
+	color:white;
+	padding-top: 16px;
+	font-family: 'Oswald', sans-serif; 
+	font-size: 12px;
+
+
+}
+ 
+.portfolio {
+	margin-bottom: 20px;
+	width: 400px;
+}
+
+.portfolioHead {
+	color: grey;
+	font-family: 'Oswald', sans-serif; 
+	font-size: 20px;
+	margin-left: 40px;
+	margin-bottom: 10px;
+}
+
+.contactHead {
+	color: grey;
+	font-family: 'Oswald', sans-serif; 
+	font-size: 20px;
+}
+
+.xtraBottomMargin {
+	margin-bottom: 100px;
+}
+
+.greyBack {
+	background-color: grey;
+
+}
+
+.btn {
+	margin-left: 15px;
+}
+
+.topMargin {
+	margin-top: 20px;
+}
+
+.xtrTopMargin {
+	margin-top: 200px;
+}
+
+@media screen and (max-width: 640px) {
+
+.portfolio {
+	width: 550px;
+}
+
+}
