@@ -80,7 +80,7 @@ body {
  
 .portfolio {
 	margin-bottom: 20px;
-	width: 400px;
+	width: 600px;
 }
 
 .portfolioHead {
@@ -116,6 +116,23 @@ body {
 
 .xtrTopMargin {
 	margin-top: 200px;
+}
+
+@media screen and (max-width: 980px) {
+
+.portfolio {
+	width: 600px;
+}
+
+}
+
+
+@media screen and (max-width: 768px) {
+
+.portfolio {
+	width: 670px;
+}
+
 }
 
 @media screen and (max-width: 640px) {
