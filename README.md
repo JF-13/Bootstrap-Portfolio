@@ -1,4 +1,4 @@
-## BootStrap Responsice Profile
+## BootStrap Responsive Profile
 
 ### Responsive profile using bootstrap
 
